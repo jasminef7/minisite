@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Portfolio</title>
+    <link href="https://jasminef7.github.io/minisite/feed.xml" rel="self" />
+    <link href="https://jasminef7.github.io/minisite" />
+    <updated>2024-02-03T23:38:46-08:00</updated>
+    <author>
+        <name>Jasmine Fung</name>
+    </author>
+    <id>https://jasminef7.github.io/minisite</id>
+
+    <entry>
+        <title>Digital Media Management</title>
+        <author>
+            <name>Jasmine Fung</name>
+        </author>
+        <link href="https://jasminef7.github.io/minisite/digital-media-management.html"/>
+        <id>https://jasminef7.github.io/minisite/digital-media-management.html</id>
+
+        <updated>2024-02-03T23:38:46-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Pacific Ties Magazine</title>
+        <author>
+            <name>Jasmine Fung</name>
+        </author>
+        <link href="https://jasminef7.github.io/minisite/pacific-ties-magazine.html"/>
+        <id>https://jasminef7.github.io/minisite/pacific-ties-magazine.html</id>
+
+        <updated>2024-02-03T23:38:35-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Social Media</title>
+        <author>
+            <name>Jasmine Fung</name>
+        </author>
+        <link href="https://jasminef7.github.io/minisite/social-media.html"/>
+        <id>https://jasminef7.github.io/minisite/social-media.html</id>
+
+        <updated>2024-02-03T23:37:56-08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>About Me</title>
+        <author>
+            <name>Jasmine Fung</name>
+        </author>
+        <link href="https://jasminef7.github.io/minisite/portfolio-2.html"/>
+        <id>https://jasminef7.github.io/minisite/portfolio-2.html</id>
+        <media:content url="https://jasminef7.github.io/minisite/media/posts/4/IMG_0146.jpeg" medium="image" />
+
+        <updated>2024-02-03T23:13:02-08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://jasminef7.github.io/minisite/media/posts/4/IMG_0146.jpeg" alt="" />
+                    Hi! I'm Jasmine and a student here at the University of California,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://jasminef7.github.io/minisite/media/posts/4/IMG_0146.jpeg" class="type:primaryImage" alt="" /></p>
+                <p>Hi! I'm Jasmine and a student here at the University of California, Los Angeles. I am currently in my fourth year majoring in English Literature and minoring in Digital Humanities. Expecting to graduate shortly in the spring, I hope to explore career options in marketing–seeing that I am the social media manager for a student-run magazine called <em>Pacific Ties </em>and I've had the wonderful opportunity to intern with Digital Media Management here in Los Angeles where I was able to work on the social media for season 4 of <em>The Kardasians</em>, season 3 of <em>The D'amelio Show</em>, and <em>Tell Me Lies </em>on Hulu.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

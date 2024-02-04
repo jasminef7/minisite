@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jasminef7.github.io/minisite/sitemap.xml
